@@ -28,3 +28,6 @@ For active Qataris and expatriates seeking daily energy and refreshment, DoubleU
 - Tone: Energetic, fun, empowering.
 - Channels: Social media (Instagram, TikTok), retail (hypermarkets like Carrefour), events (sports/festivals).
 Add brand strategy document.
+## Product Focus: Fresh Mojito Green
+- **Description**: A refreshing, green mojito-flavored soft drink...
+<image-card alt="Fresh Mojito Green Product" src="assets/fresh-mojito-green.png" ></image-card>
